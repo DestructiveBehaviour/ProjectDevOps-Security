@@ -31,5 +31,5 @@ jobs:
       with:
         name: MyAppArtifacts
         path: |
-          DevOpsProject/bin/Debug/net6.0-windows/*.exe  # Adjust this path to your built .exe file
-          DevOpsProject/bin/Debug/net6.0-windows/*.dll  # Adjust this path to include necessary DLLs
+          ProjectDevOps-Security/DevOpsProject/bin/Debug/net6.0-windows/*.exe  # Adjust this path to your built .exe file
+          ProjectDevOps-Security/DevOpsProject/bin/Debug/net6.0-windows/*.dll  # Adjust this path to include necessary DLLs
