@@ -23,8 +23,8 @@ jobs:
     - name: Restore dependencies and build
       working-directory: ./DevOpsProject
       run: |
-        dotnet restore DevOpsProject/DevOpsProject.sln
-        dotnet build DevOpsProject/DevOpsProject.sln --configuration Release
+        dotnet restore ./DevOpsProject.sln
+        dotnet build ./DevOpsProject.sln --configuration Release
 
     - name: Publish Artifact
       uses: actions/upload-artifact@v2
