@@ -1,0 +1,14 @@
+C:\DevOps\DevOpsProject_Models\bin\Debug\net6.0-windows\DevOpsProject_Models.deps.json
+C:\DevOps\DevOpsProject_Models\bin\Debug\net6.0-windows\DevOpsProject_Models.runtimeconfig.json
+C:\DevOps\DevOpsProject_Models\bin\Debug\net6.0-windows\DevOpsProject_Models.dll
+C:\DevOps\DevOpsProject_Models\bin\Debug\net6.0-windows\DevOpsProject_Models.pdb
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.csproj.AssemblyReference.cache
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.AssemblyInfoInputs.cache
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.AssemblyInfo.cs
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.csproj.CoreCompileInputs.cache
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.dll
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\refint\DevOpsProject_Models.dll
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.pdb
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\DevOpsProject_Models.genruntimeconfig.cache
+C:\DevOps\DevOpsProject_Models\obj\Debug\net6.0-windows\ref\DevOpsProject_Models.dll

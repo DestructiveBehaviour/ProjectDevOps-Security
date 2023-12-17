@@ -1,0 +1,17 @@
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_DAL.deps.json
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_DAL.runtimeconfig.json
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_DAL.dll
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_DAL.pdb
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_Models.dll
+C:\DevOps\DevOpsProject_DAL\bin\Debug\net6.0-windows\DevOpsProject_Models.pdb
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.csproj.AssemblyReference.cache
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.AssemblyInfoInputs.cache
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.AssemblyInfo.cs
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.csproj.CoreCompileInputs.cache
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.csproj.CopyComplete
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.dll
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\refint\DevOpsProject_DAL.dll
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.pdb
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\DevOpsProject_DAL.genruntimeconfig.cache
+C:\DevOps\DevOpsProject_DAL\obj\Debug\net6.0-windows\ref\DevOpsProject_DAL.dll
