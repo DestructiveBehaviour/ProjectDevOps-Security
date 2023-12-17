@@ -26,8 +26,10 @@ jobs:
         dotnet restore ./DevOpsProject.sln
         dotnet build ./DevOpsProject.sln --configuration Release
 
-    - name: Publish artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: MyApp
-          path: ./DevOpsProject/bin/Debug/net6.0-windows
+    - name: Publish Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: MyAppArtifacts
+        path: |
+            DevOpsProject/bin/Release/net6.0-windows/**/*.exe
+            DevOpsProject/bin/Release/net6.0-windows/**/*.dll
